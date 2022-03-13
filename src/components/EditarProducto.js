@@ -4,6 +4,6 @@ import React from 'react'
 
 export const EditarProducto = () => {
   return (
-    <div>EditarProducto</div>
+    <div>EditarProducto 1</div>
   )
 }
